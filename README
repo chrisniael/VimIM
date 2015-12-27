@@ -45,12 +45,12 @@ vim　i　vimim　CTRL-^　CTRL-^　　
 联网：Python2 Interface to Vim 
 输入：VimIM　拼音　四角号码　英文　 
 选项：vimimrc 
-    :let g:vimim_cloud = 'google,sogou,baidu,qq'  
-    :let g:vimim_map = 'tab_as_gi'  
-  " :let g:vimim_mode = 'dynamic'  
-  " :let g:vimim_mycloud = 0  
-  " :let g:vimim_plugin = 'C:/var/mobile/vim/vimfiles/plugin'  
-  " :let g:vimim_punctuation = 2  
-  " :let g:vimim_shuangpin = 0  
-  " :let g:vimim_toggle = 'pinyin,google,sogou' 
+    :let g:Vimim_cloud = 'google,sogou,baidu,qq'  
+    :let g:Vimim_map = 'tab_as_gi'  
+  " :let g:Vimim_mode = 'dynamic'  
+  " :let g:Vimim_mycloud = 0  
+  " :let g:Vimim_plugin = 'C:/var/mobile/vim/vimfiles/plugin'  
+  " :let g:Vimim_punctuation = 2  
+  " :let g:Vimim_shuangpin = 0  
+  " :let g:Vimim_toggle = 'pinyin,google,sogou' 
 　
